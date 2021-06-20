@@ -22,7 +22,8 @@ Needs:
 - cute gimmics like "banner of the month" that could feature member artists' artwork
 - instagram headers or other stuff
 - needs google adwords for non-profit - look into this asap!
-- tiktock
+- tiktock/instagram, cross share with jc aviary 
+- ticktock
 - 
 
 Current stuff at conference:
