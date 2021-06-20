@@ -20,10 +20,16 @@ Needs:
 - social media needs to become 
 - need things people can plug into their social media and forget about
 - cute gimmics like "banner of the month" that could feature member artists' artwork
--  
+- instagram headers or other stuff
+- needs google adwords for non-profit - look into this asap!
+- tiktock
+- 
 
 Current stuff at conference:
 - original art by member artists get featured all the time
 - green screens have been used a lot in past conferences to show people with extinct birds
 - facebook banners are a thing as well
 - photoshop seems to be a common source for material 
+
+There is a guide star 990s 
+https://www.guidestar.org/
