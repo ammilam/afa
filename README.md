@@ -35,6 +35,8 @@ This is already active but needs some attention post covid. Utilizing [Google fo
  - Google Ad Grants => This would allow us to easily attact donors, raise awareness for our mission, and recruite potential volunteers.
  - YouTube Nonprofit Program => This would help ensure that our digital content gets spread all over the world and would enable functionality on our channel to allow users to donate to the AFA directly from our youtube channel/videos.
  - Google Earth => This would help our Non-profit organization show widespread impact for various things local to the US, or globally, on a more interactive platform. This could also be used to help people locate local resources or partners.
+
+Current Needs:
  - move stuff from constant contact to the google non-profit
  - need to get google ad-sense problems resolved => currently the website is not https compliant as per googles requirements, this needs to be resolved by cleaning up http links in the website. also, our revenue needs to be reported as per our
 
