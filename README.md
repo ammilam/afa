@@ -4,7 +4,7 @@ This document is intended to act as both a proposal, and a groups of requirement
 
 * [Boost membership](#boost-membership)
 * [Google for Non-Profits](#google-for-non-profits)
-* [Advertising & Marketing](#advertising-marketing)
+* [Advertising and Marketing](#advertising-and-marketing)
 * [Social Media Presence](#social-media-presence)
 * [Add new tech/digital/social revenue streams](#add-new-tech-digital-social-revenue-streams)
 * [Add more visibility to AFA products](#add-more-visibility-to-afa-products)
@@ -36,7 +36,7 @@ This is a biggie and probably one of the more "game changing" things we can tack
  - YouTube Nonprofit Program => This would help ensure that our digital content gets spread all over the world and would enable functionality on our channel to allow users to donate to the AFA directly from our youtube channel/videos.
  - Google Earth => This would help our Non-profit organization show widespread impact for various things local to the US, or globally, on a more interactive platform. This could also be used to help people locate local resources or partners.
 
-### Advertising & Marketing
+### Advertising and Marketing
 
 Advertising and marketing encourages long-term membership and increases the relationships that we can draw on for fundraising initiatives, recurring initiatives, and donations. Below are proposials for `advertising` and `marketing`
 
