@@ -1,6 +1,6 @@
 # AFA Tech and Digital Proposal(s)
 
-This document is intended to act as both a proposal, and a groups of requirements, to be presented to the AFA with the goal of future proofing the non-profit and boosting membership. From an value add standpoint, this is broken down into the following focus areas:
+This document is intended to act as both a proposal, and a group of requirements, to be presented to the AFA with the goal of future proofing the non-profit and boosting membership. From a value add standpoint, this is broken down into the following focus areas:
 
 * [Boost Membership](#boost-membership)
 * [Google for Non-Profits](#google-for-non-profits)
@@ -15,7 +15,7 @@ This document is intended to act as both a proposal, and a groups of requirement
 
 - Members **must** come first. Any and all endeavors we embark upon must have members placed at the top of the priorty list
 - Whenever possible/appropriate, get AFA products infront of customers eyes for awareness
-- Ensure AFA materials are easily accessible to **all** members, regardless of technological proficiency. _examples incldude: conference videos, educational documentation, and other digital content_
+- Ensure AFA materials are easily accessible to **all** members, regardless of technological proficiency. _examples include: conference videos, educational documentation, and other digital content_
 
 ## Focus Areas
 
