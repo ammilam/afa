@@ -2,12 +2,12 @@
 
 This document is intended to act as both a proposal, and a groups of requirements, to be presented to the AFA with the goal of future proofing the non-profit and boosting membership. From an value add standpoint, this is broken down into the following focus areas:
 
-* [Boost membership](#boost-membership)
+* [Boost Membership](#boost-membership)
 * [Google for Non-Profits](#google-for-non-profits)
 * [Advertising and Marketing](#advertising-and-marketing)
 * [Social Media Presence](#social-media-presence)
-* [Add new tech/digital/social revenue streams](#add-new-tech-digital-social-revenue-streams)
-* [Add more visibility to AFA products](#add-more-visibility-to-afa-products)
+* [Add New Tech/Digital/Social Revenue Streams](#add-new-tech-digital-social-revenue-streams)
+* [More Visibility To AFA Products](#add-more-visibility-to-afa-products)
 * [AFA Digital Content Accessibility](#afa-digital-content-accessibility)
 * [Improve workflow and digital work tracking](#improve-workflow-and-digital-work-tracking)
 
@@ -62,17 +62,17 @@ Social media is how most people receive news about events, updates on people/pla
 - Create a youtube channel (which will come as a part of [Google for Non-Profits](#google-for-non-profits))
   
 
-### Add new tech/digital/social revenue streams
+### Add New Tech/Digital/Social Revenue Streams
 _TODO: Groom_
 
-### Add more visibility to AFA products
+### More Visibility To AFA Products
 _TODO: Groom_
 
 
 ### AFA Digital Content Accessibility
 _TODO: Groom_
 
-### Improve workflow and digital work tracking
+### Improve Workflow and Digital Work Tracking
 _TODO: Groom_
 
 
