@@ -29,10 +29,10 @@ _TODO: Enter more proposals_
 
 ### Google for Non-Profits
 
-This is already active but needs some attention post covid. Utilizing [Google for non-pofits](https://www.google.com/nonprofits/?gclid=CjwKCAjww-CGBhALEiwAQzWxOi7teEeJTTeKhVBS7G3zVnGNbsz3ZvGa7QiFHsiOUM5wcTsRZyIY4hoC0NgQAvD_BwE) will help set the AFA up for success in many different way. Some noteable benefits of this are...
+This is already active but needs some attention post covid. Utilizing [Google for non-pofits](https://www.google.com/nonprofits/?gclid=CjwKCAjww-CGBhALEiwAQzWxOi7teEeJTTeKhVBS7G3zVnGNbsz3ZvGa7QiFHsiOUM5wcTsRZyIY4hoC0NgQAvD_BwE) will help set the AFA up for success in many different ways. Some notable benefits of this are...
 
  - Google workspace for non-profits => This would give the AFA enhanced acess to products like Gmail, Docs, Calendar, Drive, and Google Meet (for video conferencing).
- - Google Ad Grants => This would allow us to easier attact donors, raise awareness for our mission, and recruite potential volunteers.
+ - Google Ad Grants => This would allow us to easily attact donors, raise awareness for our mission, and recruite potential volunteers.
  - YouTube Nonprofit Program => This would help ensure that our digital content gets spread all over the world and would enable functionality on our channel to allow users to donate to the AFA directly from our youtube channel/videos.
  - Google Earth => This would help our Non-profit organization show widespread impact for various things local to the US, or globally, on a more interactive platform. This could also be used to help people locate local resources or partners.
  - move stuff from constant contact to the google non-profit
