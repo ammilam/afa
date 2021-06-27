@@ -4,7 +4,7 @@ This document is intended to act as both a proposal, and a groups of requirement
 
 * [Boost membership](#boost-membership)
 * [Google for Non-Profits](#google-for-non-profits)
-* [Advertising and Marketing](#advertising-and-marketing)
+* [Advertising & Marketing](#advertising-&-marketing)
 * [Social Media Presence](#social-media-presence)
 * [Add new tech/digital/social revenue streams](#add-new-tech-digital-social-revenue-streams)
 * [Add more visibility to AFA products](#add-more-visibility-to-afa-products)
