@@ -8,7 +8,6 @@ This document is intended to act as both a proposal, and a groups of requirement
 * [Social Media Presence](#social-media-presence)
 * [Add new tech/digital/social revenue streams](#add-new-tech-digital-social-revenue-streams)
 * [Add more visibility to AFA products](#add-more-visibility-to-afa-products)
-* [Produce regular material on social platforms](#produce-regular-metrial-on-social-platforms)
 * [AFA Digital Content Accessibility](#afa-digital-content-accessibility)
 * [Improve workflow and digital work tracking](#improve-workflow-and-digital-work-tracking)
 
@@ -63,8 +62,18 @@ Social media is how most people receive news about events, updates on people/pla
 - Create a youtube channel (which will come as a part of [Google for Non-Profits](#google-for-non-profits))
   
 
+### Add new tech/digital/social revenue streams
+_TODO: Groom_
+
+### Add more visibility to AFA products
+_TODO: Groom_
 
 
+### AFA Digital Content Accessibility
+_TODO: Groom_
+
+### Improve workflow and digital work tracking
+_TODO: Groom_
 
 
 #### Notes and stuff I still need to groom:
