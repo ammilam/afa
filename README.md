@@ -105,6 +105,7 @@ The magazine started in the 1970s in response to the newcastle outbreak. The gov
 - need to look into journals.tdl.org
 - need to have a link 
 - define a set of standards for social media interaction and engagement
+- fast ads - is done through constant contact, which is a solution like survey monkey - none of the links are https
 
 Current stuff at conference:
 - original art by member artists get featured all the time
@@ -114,3 +115,9 @@ Current stuff at conference:
 
 There is a guide star 990s 
 https://www.guidestar.org/
+
+
+Potential Problems:
+
+- google ad-sense must be maintained like a real business - we must have good ads and click rates
+- getting rid of the http links in the website
