@@ -86,6 +86,7 @@ The magazine started in the 1970s in response to the newcastle outbreak. The gov
 - Magazines need cover art infront of each 
 - we need to make template files for magazine creation that would live in google drive - this would help keep everything uniform
 - Watch bird needs new authors so we need an author recuitement form and new ways to get the word out to potential authors
+- Create a template for magazine publication using a solution like [this](https://elements.envato.com/magazine-layout-powerpoint-template-CH3CWJB)
 
 #### Notes and stuff I still need to groom:
 
