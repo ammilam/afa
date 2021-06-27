@@ -38,7 +38,7 @@ This is already active but needs some attention post covid. Utilizing [Google fo
 
 Current Needs:
  - move stuff from constant contact to the google non-profit
- - need to get google ad-sense problems resolved => currently the website is not https compliant as per googles requirements, this needs to be resolved by cleaning up http links in the website. also, our revenue needs to be reported as per our
+ - need to get google ad-sense problems resolved => currently the website is not https compliant as per googles requirements, this needs to be resolved by cleaning up http links in the website. also, our revenue needs to be reported
 
 ### Advertising and Marketing
 
