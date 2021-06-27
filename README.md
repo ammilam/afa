@@ -19,7 +19,7 @@ This document is intended to act as both a proposal, and a group of requirements
 
 ## Focus Areas
 
-Below are the `focus areas` that various proposials and ititatives will align under. A lot of the `focus areas` listed below are closely related and help implement each other. At this time, this document is still very fluid and may have parts lacking information...
+Below are the `focus areas` that various proposals and initiatives will align under. A lot of the `focus areas` listed below are closely related and help implement each other. At this time, this document is still very fluid and may have parts lacking information...
 
 ### Boost Membership
 
