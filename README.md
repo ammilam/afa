@@ -103,6 +103,7 @@ The magazine started in the 1970s in response to the newcastle outbreak. The gov
   - get info from afa services on website and get it surface in guide star
 - need to look into journals.tdl.org
 - need to have a link 
+- define a set of standards for social media interaction and engagement
 
 Current stuff at conference:
 - original art by member artists get featured all the time
