@@ -66,6 +66,7 @@ Notes...
 - Video titles should be: Title of the talk| Speaker | Year and Location
 - Give credit to the video editor in the description
 - Use hashtags that reflect the location of the video
+- We need to set these up on a regular publishing schedule
 
 
 ### Social Media Presence
