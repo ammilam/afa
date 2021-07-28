@@ -58,6 +58,8 @@ Notes...
 - Interest would be chop diet, parrot training, candling, bird toys, green cheeked conure, budgie, kakariki, love birds, parrotlet, macaw, african grey, brd cages, aviary, hyacinth macaw, nutri berries, zupreem, harrisons, other bird products, aviator harness, how long do parrots live
 - Connie is going to create a landing page to use in an add
 - Connie is modifying last years in person conference and will be uploading to youtube
+- Connie thoughts on adertising => Google click through conversion per dollar when people are looking up bird supplies. We will want to run a regionally targeted live event campaign using adwords when people are shopping for bird supplies. Use keywords listed above alongside this
+- Best penetration based on click through conversion
 
 ### Social Media Presence
 
