@@ -61,6 +61,13 @@ Notes...
 - Connie thoughts on adertising => Google click through conversion per dollar when people are looking up bird supplies. We will want to run a regionally targeted live event campaign using adwords when people are shopping for bird supplies. Use keywords listed above alongside this
 - Best penetration based on click through conversion
 
+### Youtube 
+
+- Video titles should be: Title of the talk| Speaker | Year and Location
+- Give credit to the video editor in the description
+- Use hashtags that reflect the location of the video
+
+
 ### Social Media Presence
 
 Social media is how most people receive news about events, updates on people/places/things/orgs they care about, and find general connectivity to the digital landscape we find ourselves in, in 2021. Below are some suggestions on how we can boost social media presence.
@@ -136,3 +143,5 @@ Potential Problems:
 
 - google ad-sense must be maintained like a real business - we must have good ads and click rates
 - getting rid of the http links in the website
+
+
