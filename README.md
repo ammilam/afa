@@ -48,6 +48,17 @@ Advertising and marketing encourages long-term membership and increases the rela
 - Schedule regular social media posts => this would allow us to keep content flowing and the AFA consistently in peoples feed. Content can be comprised of various material, such as: member submissions, segments of previous speakers in past conferences, educational videos, and partner videos - like videos in collaboration with [JC Aviary](https://jcaviary.com/)
 - Validate and improve search engine `crawl` functionality against AFA website => it is important to ensure reliability and maintainability of existing resources/functionality, such as how search engines return results containing the [AFA Website](https://www.afabirds.org/).
 
+#### Conference Advertising
+
+Notes...
+
+- We will want to use audience targeting.. 
+- We will want to target people with birds in Minnesota or in the area near the conference 
+- Targeting people too far away will probably not be as successful
+- Interest would be chop diet, parrot training, candling, bird toys, green cheeked conure, budgie, kakariki, love birds, parrotlet, macaw, african grey, brd cages, aviary, hyacinth macaw, nutri berries, zupreem, harrisons, other bird products, aviator harness, how long do parrots live
+- Connie is going to create a landing page to use in an add
+- Connie is modifying last years in person conference and will be uploading to youtube
+
 ### Social Media Presence
 
 Social media is how most people receive news about events, updates on people/places/things/orgs they care about, and find general connectivity to the digital landscape we find ourselves in, in 2021. Below are some suggestions on how we can boost social media presence.
