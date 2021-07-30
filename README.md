@@ -146,3 +146,17 @@ Potential Problems:
 - getting rid of the http links in the website
 
 
+
+conference info:
+Zoom Avian Educational Expo
+Parrot Educational Conference
+47th Annual | Minneapolis, MN
+47th Annual | August 12-14
+Talks Q&A With Leading Experts
+Learn Bird Breeding, Bird Keeping, and Avian Medicine Best Practices.
+Enrichment, Diet, Hand-raising, Veterinary Care, Freeflight, Rescues, and More!
+In-Person @Minneapolis, MN
+August 12-14, 2021
+For Bird Owners, Zookeepers, and Breeders. Parrots, Softbills, Birds of Prey, and More!
+Learn Bird Breeding, Bird Keeping, and Avian Medicine Best Practices.
+Zoom Registration Also Available.
